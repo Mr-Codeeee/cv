@@ -1,0 +1,23 @@
+<html>
+<head>
+<title> Contact me </title>
+</head>
+<body>
+<h1> contact me </h1>
+<p> phone no: 037373737728 </p>
+<p> gmail: wahhshsdhdj@gmail.com </p>
+<form>
+<label for="yourname">Your Name:</label><br>
+<input type="text" id="yourname" name="yourname" value="">
+<input type="submit" name="">
+<input type="color" name="waqas" value="">
+<br><label> Do you like my web page? </label> 
+<input type="checkbox" name="" value="">
+<input type="radio" name"" value="html">
+<label> HTML </label>
+</form>
+
+
+</body>
+
+</html>

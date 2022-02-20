@@ -1,0 +1,61 @@
+<html> 
+<head>
+<title> Waqas Rahim </title>
+<link rel="icon" type="image/x-icon" href="icons8-fraud-64.png"/>
+</head>
+
+<body>
+
+<table cellspacing="50">
+<tr>
+<td>
+<img src="IMG_1454-modified.png" alt="my picture" width="300">
+</td>
+<td>
+<h1> Waqas Rahim </h1>
+<p> I'm a <em>computer science </em> student </p>
+<p> interested in web devalopment. </p>
+</td>
+</tr>
+</table>
+
+<hr noshade> 
+<h2> Academic Career </h2>
+<ul>
+<li> Complete front end web devalopment </li>
+<li> Complete back end web devalopment </li>
+</ul>
+<hr noshade>
+<h2> Hobbies </h2>
+<ol>
+<li> Reading </li>
+<li> Listening to music </li>
+<li>drawing</li>
+<hr noshade>
+</ol>
+<h2> skills </h2>
+<table cellspacing="50" >
+<tr>
+<td>Photography</>
+<td>⭐⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td>Hypertext Markup Language </td>
+<td>⭐⭐⭐⭐</td>
+</tr>
+<tr>
+<td> Drawing </td>
+<td>⭐⭐⭐</td>
+</tr>
+</table>
+
+<a href="file:///C:/Users/haris/Downloads/q/ho.html">contact me </a> 
+
+
+
+</body>
+
+
+
+
+</html>
